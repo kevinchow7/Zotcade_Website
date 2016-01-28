@@ -1,0 +1,35 @@
+.jumbotron {
+    background-image:url(j-image.jpg);
+    background-attachment: fixed;
+    height: 600px;
+    margin: 0px !important;
+}
+
+.text {
+    padding-top: 190px;
+    padding-left: 80px;
+}
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+  }
+      
+.jumbotron .text {
+    color: white;
+    top: 30px;
+    font-family: cursive;
+}
+
+.information {
+    background-image:url(Jumbotron_Image.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 700px;
+}
+
+ 
+
+
+
+
